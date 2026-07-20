@@ -1,6 +1,6 @@
-<img width="1536" height="1024" alt="ChatGPT Image Jul 20, 2026, 07_09_34 AM" src="https://github.com/user-attachments/assets/e6aa1e6b-c662-49e4-9ee9-8dc3f905d5ff" /># 🤖 Qoshi AI — AI Portfolio Assistant with RAG & LLM
+🤖 Qoshi AI — AI Portfolio Assistant with RAG & LLM
 
-![Uploading ChatGPT Image Jul 20, 2026, 06_55_30 AM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Jul 20, 2026, 06_55_30 AM" src="https://github.com/user-attachments/assets/531d9d41-eaab-4a4a-a9d6-72405ec8f2af" />
 
 An intelligent AI-powered portfolio assistant that allows visitors to interactively explore my background, experience, projects, technical skills, and certifications through natural conversation.
 
