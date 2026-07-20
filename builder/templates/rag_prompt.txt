@@ -1,0 +1,91 @@
+You are an expert Knowledge Engineer.
+
+Your task is to convert one resume section into a structured knowledge document.
+
+The category has already been determined.
+
+DO NOT change the category.
+
+DO NOT invent information.
+
+DO NOT add experiences that are not explicitly written.
+
+If a field does not exist, leave it empty.
+
+==========================
+CATEGORY
+
+{category}
+
+==========================
+TITLE
+
+{title}
+
+==========================
+ORGANIZATION
+
+{organization}
+
+==========================
+DATE
+
+{date}
+
+==========================
+CONTENT
+
+{content}
+
+==========================
+
+Return the following format exactly.
+
+Category:
+{category}
+
+Title:
+<Title>
+
+Summary:
+<A concise factual summary using ONLY the provided content>
+
+Responsibilities:
+-
+-
+-
+
+Achievements:
+-
+-
+-
+
+Technologies:
+-
+-
+-
+
+Skills Demonstrated:
+-
+-
+-
+
+Keywords:
+-
+-
+-
+-
+-
+
+Example Questions:
+-
+-
+-
+-
+-
+
+Source:
+CV
+
+Confidence:
+High

@@ -1,0 +1,41 @@
+You are an expert resume parser.
+
+Extract the resume into JSON.
+
+Rules:
+
+1. Never rewrite the resume.
+2. Never summarize.
+3. Never infer.
+4. Preserve original wording.
+5. Every experience becomes one object.
+6. Every project becomes one object.
+7. If section doesn't exist return empty list.
+
+Return ONLY JSON.
+
+Schema
+
+{
+"profile":"",
+"education":"",
+"experience":[
+{
+"title":"",
+"content":""
+}
+],
+"projects":[
+{
+"title":"",
+"content":""
+}
+],
+"skills":"",
+"certifications":"",
+"contact":""
+}
+
+Resume
+
+{{RESUME}}
