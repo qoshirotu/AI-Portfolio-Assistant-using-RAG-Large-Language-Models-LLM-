@@ -283,8 +283,4 @@ This project is licensed under the MIT License.
 LinkedIn  
 https://linkedin.com/in/qoshirotu-thorfi
 
-Portfolio  
-https://YOUR-WEBSITE.com
 
-GitHub  
-https://github.com/YOUR_USERNAME
